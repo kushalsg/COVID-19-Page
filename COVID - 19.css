@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-container {
+    font-family: Roboto;
+    font-weight: 500;
+    color: #323f4b;
+    margin: 10px;
+}
+
+.background-para {
+    font-size: 18px;
+}
+
+.background-button {
+    background-color: #0967d2;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    font-size: 14px;
+}
+
+.First-container {
+    background-color: #0967d219;
+    height: 20vh;
+    font-family: Roboto;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.First-container-image {
+    margin-top: 5px;
+}
+
+.First-container-heading {
+    margin-left: 10px;
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.First-container-para {
+    color: #707070;
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.Second-heading {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.Second-First-container {
+    text-align: center;
+    background-color: #3ebd93;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+}
+
+.Second-Second-container {
+    text-align: center;
+    background-color: #e668a7;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+}
+
+.Second-Third-container {
+    text-align: center;
+    background-color: #a368fc;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+}
+
+.Last-container {
+    background-color: #e12d3919;
+    border-radius: 10px;
+    height: 25vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.Last-container-heading {
+    font-size: 16px;
+    font-family: Roboto;
+    margin-left: 10px;
+}
+
+.Last-container-para {
+    color: #707070;
+    font-family: Roboto;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.Last-container-button-container {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.Last-container-button {
+    background-color: #0967d2;
+    border-radius: 10px;
+    font-family: Roboto;
+    font-size: 12px;
+    color: white;
+}
